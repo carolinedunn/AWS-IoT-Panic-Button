@@ -1,4 +1,4 @@
-# AWSIoTPanicButton
+# AWS IoT Panic Button
 Lambda function code for AWS IoT Button to send SMS messages depending on short press, double press, or long press. <br>
 
 How to make the "I've fallen and I can't get up!" BUTTON from commercials of the 80s. This tutorial shows you how to setup and install an AWS IoT Button and configure to send up to 3 different SMS messages.
