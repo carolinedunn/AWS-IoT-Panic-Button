@@ -5,7 +5,7 @@ How to make the "I've fallen and I can't get up!" BUTTON from commercials of the
 
 Please watch my detailed tutorial on YouTube https://youtu.be/rMUOl-JWcVQ
 
-[![How to make a panic button](https://s3.amazonaws.com/awsiotbutton/YT-Thumb.png)](http://www.youtube.com/watch?v=rMUOl-JWcVQ "How to make a panic button")
+[![How to make a panic button](https://s3.amazonaws.com/awsiotbutton/yt-thumb-screenshot.png)](http://www.youtube.com/watch?v=rMUOl-JWcVQ "How to make a panic button")
 
 For the project, you'll need: <br>
 AWS IoT 2nd Generation Button - http://amzn.to/2fCXPkr (please do not discard the box) <br>
